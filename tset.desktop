@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Terminal
+Exec=/usr/bin/tset %f
+StartupNotify=false
+Terminal=false
+Categories=System;
+Name[en_US]=tset.desktop
